@@ -1,0 +1,4 @@
+groups:
+  baseline:
+    - beam_profile
+    - ict_plot
